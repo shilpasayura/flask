@@ -1,0 +1,2 @@
+Python is cool
+iPython is very cool
